@@ -30,7 +30,7 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 2017 to May 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -49,9 +49,14 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 
 ## Experience
 
+**Halliburton** (2013 to 2015)   
+*Senior Field Engineer* 
 **Schlumberger Oilfield Services** (2006 to 2012)    
 *Senior Field Engineer*  
-**Halliburton** (2013 to 2015)   
-*Senior Field Engineer*  
+ 
+## Hobbies and Interests
 
-In my spare time I enjoy dancing. I am trained in classical Indian dance. I also love to swim when I can. 
+- I am a trained Indian classical dancer and I enjoy dancing in my spare time. 
+- I love to cook and try differet cuisine.
+- I relax by listening to music and by doing yoga
+
