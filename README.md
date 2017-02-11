@@ -51,6 +51,7 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 
 **Halliburton** (2013 to 2015)   
 *Senior Field Engineer* 
+
 **Schlumberger Oilfield Services** (2006 to 2012)    
 *Senior Field Engineer*  
  
