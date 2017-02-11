@@ -1,6 +1,11 @@
 ## Ashwini Mani
 
-[comment]: # (A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment)
+<p>I am a curious and enthusiastic Software Developer in training, who loves solving problems and enjoys learning new technologies.</p>
+
+<p>After finishing Master in Physics (Hons), I accepted a challenging and demanding role in a leading oil and gas services company and had the opportunity to travel around the world. Although I cherished every moment in my previous role, it kept me away from my family often with no way to contact the outside world on most days.</p>
+
+<p>As a self-motivated person, I look forward to developing skills that would allow me to design solutions which would change people's live for the better and working along side passionate technologist, in an encouraging environment.</p>
+
 
 ## Skills
 
