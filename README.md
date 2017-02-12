@@ -58,6 +58,9 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 
 **Schlumberger Oilfield Services** (2006 to 2012)    
 *Senior Field Engineer*  
+
+**Qualcomm** (2005 to 2006)    
+*Intern in Design-For-Test team*
  
 ## Hobbies and Interests
 
