@@ -1,5 +1,9 @@
 ## Ashwini Mani
 
+[comment]: # ([Projects](#projects) |)
+
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ashwini-mani-b8012358) | [Blog](https://medium.com/@Aagni)
+
 <p>I am a curious and enthusiastic Software Developer in training, who loves solving problems and enjoys learning new technologies.</p>
 
 <p>After finishing Master in Physics (Hons), I accepted a challenging and demanding role in a leading oil and gas services company and had the opportunity to travel around the world undertaking projects in remote locations, usually as the only female engineer on-site. Although I cherished every moment in my previous role, it kept me away from my family often with no way to contact the outside world on most days.</p>
