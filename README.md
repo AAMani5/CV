@@ -1,8 +1,6 @@
 ## Ashwini Mani
 
-[comment]: # ([Projects](#projects) |)
-
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ashwini-mani-b8012358) | [Blog](https://medium.com/@Aagni)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ashwini-mani-b8012358) | [Blog](https://medium.com/@Aagni)
 
 <p>I am a curious and enthusiastic Software Developer in training, who loves solving problems and enjoys learning new technologies.</p>
 
@@ -32,6 +30,14 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 
 <p>I set a record for the fastest time taken to complete a heavy-duty crane operation certification, in spite of spending only 15 minutes to learn the controls, surprising the trainer and the location manager. Managers have specifically asked for me to read up on new technologies and to arrange for training my peers because of my ability to learn efficiently and for my attention to detail.</p>
 
+## Projects
+| Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [InstAsh](https://github.com/AAMani5/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara| n/a |
+| [Bowling](https://github.com/AAMani5/bowling-challenge) | Week 5 | Javascript, Sinatra, jQuery; Front End: HTML/CSS; Testing: Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
+| [Chitter](https://github.com/AAMani5/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper ;Front End: HTML/CSS; Testing: RSpec, Capybara Encryption: Bcrypt; Deployed to Heroku. | [link](https://chitter-ash.herokuapp.com) |
+| [RockPaperScissors](https://github.com/AAMani5/rps-challenge) | Week 3 | Ruby, Sinatra, RSpec, Capybara, HTML&CSS | n/a |
+
 ## Education
 
 #### Makers Academy (Feb 2017 to May 2017)
@@ -49,7 +55,6 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 - First Class (CGPA - 8.44/10)
 - Co-ordinator of Creative Activities Club and Member of BITS Physice Society
 
-#### Any other qualifications
 
 ## Experience
 
