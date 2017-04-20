@@ -4,16 +4,16 @@
 
 <p>I am a curious and enthusiastic Software Developer in training, who loves solving problems and enjoys learning new technologies.</p>
 
-<p>After finishing Master in Physics (Hons), I accepted a challenging and demanding role in a leading oil and gas services company and had the opportunity to travel around the world undertaking projects in remote locations, usually as the only female engineer on-site. Although I cherished every moment in my previous role, it kept me away from my family often with no way to contact the outside world on most days.</p>
+<p>After finishing Master in Physics with Honours, I accepted a challenging and demanding role in a leading oil and gas services company and had the opportunity to travel around the world undertaking projects in remote locations, usually as the only female engineer on-site. Although I cherished every moment in my previous role, it involved staying at remote locations for extended periods with no way to contact the outside world on most days.</p>
 
-<p>As a self-motivated person, I look forward to developing skills that would allow me to design solutions which would change people's live for the better and working along side passionate technologist, in an encouraging environment.</p>
+<p>As a self-motivated person, I enjoy developing new skills that empower me to design solutions that would change people's lives for the better. I am most productive when working with passionate technologists in an encouraging environment.</p>
 
 
 ## Skills
 
 #### Analytical Reasoning
 
-In my previous role, my main responsibility was to analyze and interpret data acquired from oil wells to produce reports which would help companies like Chevron, Cairn Energy, ONGC make decisions on productivity, exploration, abandonment and repair of the oil wells. These reports had to be precise and evidence based, as they impacted multi-million dollar project decisions.
+In my previous role, my main responsibility was to analyse and interpret data acquired from oil wells to produce reports which would help companies like Chevron, Cairn Energy, ONGC make decisions on productivity, exploration, abandonment and repair of the oil wells. These reports had to be precise and evidence based, as they impacted multi-million dollar project decisions.
 
 #### Leadership
 
@@ -24,52 +24,52 @@ In my previous role, my main responsibility was to analyze and interpret data ac
 #### Communication
 
 <p>In my previous role, I met with client-representative everyday to provide updates on the progress of the task at hand – be it troubleshooting, job design or job progress. Among my peers, I was invited to update them regarding new hi-tech equipment, to choose the most suited equipment for the job because I was knowledgeable and maintained a good working relationship with clients. </p>
-<p>Based on my performance and integrity on the job, clients have specifically requested for me to be assigned to carry out some atypical jobs.</p>
+<p>At Makers Academy I have improved my communication skills further by getting feedback from my coaches and team members.</p>
 
 #### Fast-learner
 
-<p>I set a record for the fastest time taken to complete a heavy-duty crane operation certification, in spite of spending only 15 minutes to learn the controls, surprising the trainer and the location manager. Managers have specifically asked for me to read up on new technologies and to arrange for training my peers because of my ability to learn efficiently and for my attention to detail.</p>
+<p>During my first intensive training with Schlumberger, my coaches and peers assumed that I was a Petroleum Engineer because of the speed and ease with which I was picking up new concepts and applying them at work.</p>
+<p>At Makers Academy, I was able to quickly grasp fundamental object-oriented programming concepts early on which helped me appreciate SOLID principles and use them in my projects.</p>
 
 ## Projects
 | Project                                                                                                                        | When                                                                                          | Technologies used                                          | Live                                          
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | [InstAsh](https://github.com/AAMani5/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara| n/a |
-| [Bowling](https://github.com/AAMani5/bowling-challenge) | Week 5 | Javascript, Sinatra, jQuery; Front End: HTML/CSS; Testing: Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
-| [Chitter](https://github.com/AAMani5/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper ;Front End: HTML/CSS; Testing: RSpec, Capybara Encryption: Bcrypt; Deployed to Heroku. | [link](https://chitter-ash.herokuapp.com) |
-| [RockPaperScissors](https://github.com/AAMani5/rps-challenge) | Week 3 | Ruby, Sinatra, RSpec, Capybara, HTML&CSS | n/a |
+| [Bowling](https://github.com/AAMani5/bowling-challenge) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
+| [Chitter](https://github.com/AAMani5/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper ;Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt; Deployed to Heroku. | [link](https://chitter-ash.herokuapp.com) |
+| [RockPaperScissors](https://github.com/AAMani5/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS;Tested with RSpec, Capybara| n/a |
 
 ## Education
 
 #### Makers Academy (Feb 2017 to May 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Sinatra, PostgreSQL
+- Rspec, Jasmine, Capybara, Selenium-Webdriver
+- XP values and Agile development process
+- Kaizen approach to learning
 
 #### Birla Institute of Technology and Science (2001 to 2006)
 
-- Masters (Hons) in Physice & B.E (Hons) in Electronics & Instrumentation
+- Masters (Hons) in Physics & B.E (Hons) in Electronics & Instrumentation
 - First Class (CGPA - 8.44/10)
-- Co-ordinator of Creative Activities Club and Member of BITS Physice Society
+- Co-ordinator of Creative Activities Club and Member of BITS Physics Society
 
 
 ## Experience
 
 **Halliburton** (2013 to 2015)   
-*Senior Field Engineer* 
+*Senior Field Engineer*
 
 **Schlumberger Oilfield Services** (2006 to 2012)    
 *Senior Field Engineer*  
 
 **Qualcomm** (2005 to 2006)    
 *Intern in Design-For-Test team*
- 
+
 ## Hobbies and Interests
 
-- I am a trained Indian classical dancer and I enjoy dancing in my spare time. 
-- I love to cook and try differet cuisine.
-- I relax by listening to music and by doing yoga
-
+- Being a trained Indian classical dancer and I enjoy dancing in my spare time.
+- Love to cook and try different cuisines. Currently enamoured with Japanese Food.
+- Listening to music or practising yoga relaxes me.
